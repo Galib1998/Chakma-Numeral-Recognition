@@ -25,9 +25,9 @@ The code expects your dataset to be structured in subfolders by class:
 2. Run in Google Colab
 
     1.  Open [Google Colab](https://colab.research.google.com/).
-    2.  Go to **File > Open notebook...** and select the **GitHub** tab.
+    2.  Go to File > Open notebook... and select the GitHub tab.
     3.  Paste the URL of this repository and select `ResNet50.ipynb`.
-    4.  Change the runtime to a **GPU** (**Runtime > Change runtime type > T4 GPU**).
+    4.  Change the runtime to a GPU (Runtime > Change runtime type > T4 GPU).
     5.  Run the first cell to mount your Google Drive.
     6.  Run the rest of the cells to train the model and generate results.
 
