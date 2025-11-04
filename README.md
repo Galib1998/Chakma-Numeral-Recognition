@@ -33,9 +33,17 @@ The code expects your dataset to be structured in subfolders by class:
 
 3. View Results
 
-All results (plots, reports, and the trained model file) will be saved to your Google Drive in a new folder:
+xai_visualizations.png
+<img width="7500" height="4500" alt="xai_visualizations" src="https://github.com/user-attachments/assets/d638d96f-cda6-499b-8ca2-3a6d1969c6d2" />
 
-`/content/drive/MyDrive/_Chakma_Numbers_Results_ResNet50_/`
+confusion_matrix.png 
+<img width="3000" height="2400" alt="confusion_matrix" src="https://github.com/user-attachments/assets/1f1ffa09-0115-4fc6-852f-2e21f61e8e4f" />
+
+roc_curve.png
+<img width="3000" height="2400" alt="roc_curve" src="https://github.com/user-attachments/assets/cf072b9a-c9fa-475e-8b4f-186957e4834e" />
+
+raining_curves.png
+<img width="3600" height="1500" alt="training_curves" src="https://github.com/user-attachments/assets/d517f555-238d-4ec7-8d35-b5bec30112d8" />
 
 🛠️ Libraries & Dependencies
 
